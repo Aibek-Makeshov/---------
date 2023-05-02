@@ -1,0 +1,65 @@
+/* .footer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    text-align: center;
+    font-family: 'Montserrat Alternates';
+}
+
+.email {
+    max-width: 250px;
+
+}
+
+.text {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #2F3035;
+}
+
+input {
+    max-width: 130px;
+}
+
+button {
+    margin-left: 5px;
+    background: #1C62CD;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+    text-align: center;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    width: 90px;
+    height: 21px;
+}
+
+.info-name {
+    font-weight: bold;
+}
+
+.info {
+    line-height: 160%;
+}
+
+.shop-name {
+    font-weight: bold;
+}
+
+.shop {
+    line-height: 160%;
+}
+
+.social {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+} */
+
+li {
+    margin-bottom: 5px;
+}
